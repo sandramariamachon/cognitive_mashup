@@ -2,7 +2,7 @@
 title: 'To be or not to be Mindfull?'
 date: 2020-09-11 16:00:00
 description: 
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/art/meditation.jpg'
 ---
 
 It's the middle of the neverending Covid-19 pandemic. Everybody’s life has been affected and it’s nearly impossible not to lose your mind and calmly anticipate what's going to happen next. Consequently, the idea of self-care and mindfulness got a bit more recognition recently. Numerous articles recommend using this unstable time to give mindfulness a shot and learn how to appreciate a break from everyday life. As a meditator, I couldn’t agree more and after experiencing some benefits from my practice, I could honestly recommend it to anybody. As a sceptic though, I decided to take a closer look at the empirical research on mindfulness and how (or if) they live up to the mindfulness hype, monetised by the wellness industry.
@@ -37,7 +37,7 @@ Is meditation as universally beneficial and influential as it's portrayed? Proba
 
 
 
-REFERENCES
+																												REFERENCES
 
 Arch, J. J., Ayers, C. R., Baker, A., Almklov, E., Dean, D. J., & Craske, M. G. (2013). Randomized clinical trial of adapted mindfulness-based stress reduction versus group cognitive behavioral therapy for heterogeneous anxiety disorders. Behaviour research and therapy, 51(4-5), 185-196.
 
