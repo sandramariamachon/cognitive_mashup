@@ -32,9 +32,9 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: 'aaaa.com'
-  twitter_url: 'bbb.com'
-  instagram_url: 'ccc.com'
+  facebook_url: 
+  twitter_url:
+  instagram_url: 
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''

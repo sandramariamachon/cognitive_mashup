@@ -6,7 +6,6 @@ As a meditator, I couldn’t agree more and after experiencing some benefits fro
 As a sceptic though, I decided to take a closer look at the empirical research on mindfulness and how (or if) they live up to the mindfulness hype, monetised by the wellness industry.
 featured_image: '/images/art/meditation.jpg'
 ---
-![](/images/art/meditation.jpg)
 
 ## To be or not to be Mindfull?
 ---
