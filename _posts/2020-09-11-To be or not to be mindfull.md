@@ -1,9 +1,7 @@
 ---
 title: 'To be or not to be Mindfull?'
 date: 2020-09-11 16:00:00
-description: Numerous articles recommend using this unstable time to give mindfulness a shot and learn how to appreciate a break from everyday life. 
-As a meditator, I couldn’t agree more and after experiencing some benefits from my practice, I could honestly recommend it to anybody. 
-As a sceptic though, I decided to take a closer look at the empirical research on mindfulness and how (or if) they live up to the mindfulness hype, monetised by the wellness industry.
+description: Numerous articles recommend using this unstable time to give mindfulness a shot and learn how to appreciate a break from everyday life.I decided to take a closer look at the empirical research on mindfulness and how (or if) they live up to the mindfulness hype, monetised by the wellness industry.
 featured_image: '/images/art/meditation.jpg'
 ---
 
