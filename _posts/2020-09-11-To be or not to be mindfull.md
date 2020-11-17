@@ -1,8 +1,8 @@
 ---
 title: 'To be or not to be Mindfull?'
 date: 2020-09-11 16:00:00
-description: Is the mindfulness hype based in science?
-featured_image: '/images/art/mind.jpg'
+description: Is the mindfulness hype based on science?
+featured_image: '/images/art/meditator-01.svg'
 ---
 
 ## To be or not to be Mindfull?
@@ -16,7 +16,7 @@ As a meditator, I couldn’t agree more and after experiencing some benefits fro
 As a sceptic though, 
 I decided to take a closer look at the empirical research on mindfulness and how (or if) they live up to the mindfulness hype, monetised by the wellness industry.
 
----
+
 ## History
 ---
 
@@ -96,29 +96,29 @@ If you want to try it, go ahead it may or may not work for you. Just take it wit
 
 ## References
 
-Arch, J. J., Ayers, C. R., Baker, A., Almklov, E., Dean, D. J., & Craske, M. G. (2013). Randomized clinical trial of adapted mindfulness-based stress reduction versus group cognitive behavioral therapy for heterogeneous anxiety disorders. Behaviour research and therapy, 51(4-5), 185-196.
+<small> Arch, J. J., Ayers, C. R., Baker, A., Almklov, E., Dean, D. J., & Craske, M. G. (2013). Randomized clinical trial of adapted mindfulness-based stress reduction versus group cognitive behavioral therapy for heterogeneous anxiety disorders. Behaviour research and therapy, 51(4-5), 185-196. </small>
 
-Coronado-Montoya, S., Levis, A. W., Kwakkenbos, L., Steele, R. J., Turner, E. H., & Thombs, B. D. (2016). Reporting of positive results in randomized controlled trials of mindfulness-based mental health interventions. PloS one, 11(4), e0153220.
+<small> Coronado-Montoya, S., Levis, A. W., Kwakkenbos, L., Steele, R. J., Turner, E. H., & Thombs, B. D. (2016). Reporting of positive results in randomized controlled trials of mindfulness-based mental health interventions. PloS one, 11(4), e0153220.</small>
 
-Fox, K. C., Nijeboer, S., Dixon, M. L., Floman, J. L., Ellamil, M., Rumak, S. P., ... & Christoff, K. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. Neuroscience & Biobehavioral Reviews, 43, 48-73.
+<small> Fox, K. C., Nijeboer, S., Dixon, M. L., Floman, J. L., Ellamil, M., Rumak, S. P., ... & Christoff, K. (2014). Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners. Neuroscience & Biobehavioral Reviews, 43, 48-73.</small>
 
-Goldberg, S. B., Tucker, R. P., Greene, P. A., Davidson, R. J., Wampold, B. E., Kearney, D. J., & Simpson, T. L. (2018). Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis. Clinical psychology review, 59, 52-60.
+<small> Goldberg, S. B., Tucker, R. P., Greene, P. A., Davidson, R. J., Wampold, B. E., Kearney, D. J., & Simpson, T. L. (2018). Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis. Clinical psychology review, 59, 52-60.
 
-Goldin, P. R., Morrison, A., Jazaieri, H., Brozovich, F., Heimberg, R., & Gross, J. J. (2016). Group CBT versus MBSR for social anxiety disorder: A randomized controlled trial. Journal of consulting and clinical psychology, 84(5), 427.
+<small> Goldin, P. R., Morrison, A., Jazaieri, H., Brozovich, F., Heimberg, R., & Gross, J. J. (2016). Group CBT versus MBSR for social anxiety disorder: A randomized controlled trial. Journal of consulting and clinical psychology, 84(5), 427.
 
-Gotink, R. A., Meijboom, R., Vernooij, M. W., Smits, M., & Hunink, M. M. (2016). 8-week mindfulness based stress reduction induces brain changes similar to traditional long-term meditation practice–a systematic review. Brain and cognition, 108, 32-41.
+<small> Gotink, R. A., Meijboom, R., Vernooij, M. W., Smits, M., & Hunink, M. M. (2016). 8-week mindfulness based stress reduction induces brain changes similar to traditional long-term meditation practice–a systematic review. Brain and cognition, 108, 32-41.
 
-Goyal, M., Singh, S., Sibinga, E. M., Gould, N. F., Rowland-Seymour, A., Sharma, R., ... & Ranasinghe, P. D. (2014). Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA internal medicine, 174(3), 357-368.
+<small> Goyal, M., Singh, S., Sibinga, E. M., Gould, N. F., Rowland-Seymour, A., Sharma, R., ... & Ranasinghe, P. D. (2014). Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA internal medicine, 174(3), 357-368.
 
-Hölzel, B. K., Carmody, J., Vangel, M., Congleton, C., Yerramsetti, S. M., Gard, T., & Lazar, S. W. (2011). Mindfulness practice leads to increases in regional brain gray matter density. Psychiatry research: neuroimaging, 191(1), 36-43.
+<small> Hölzel, B. K., Carmody, J., Vangel, M., Congleton, C., Yerramsetti, S. M., Gard, T., & Lazar, S. W. (2011). Mindfulness practice leads to increases in regional brain gray matter density. Psychiatry research: neuroimaging, 191(1), 36-43.
 
-Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. Trends in cognitive sciences, 12(4), 163-169.
+<small> Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. Trends in cognitive sciences, 12(4), 163-169.
 
-Rau, H. K., & Williams, P. G. (2016). Dispositional mindfulness: A critical review of construct validation research. Personality and Individual Differences, 93, 32-43.
+<small> Rau, H. K., & Williams, P. G. (2016). Dispositional mindfulness: A critical review of construct validation research. Personality and Individual Differences, 93, 32-43.
 
-Santorelli, S., & Kabat-Zinn, J. (2013). Mindfulness-based stress reduction (MBSR) professional education and training resource manual.
+<small> Santorelli, S., & Kabat-Zinn, J. (2013). Mindfulness-based stress reduction (MBSR) professional education and training resource manual.
 
-Sedlmeier, P., Eberth, J., Schwarz, M., Zimmermann, D., Haarig, F., Jaeger, S., & Kunze, S. (2012). The psychological effects of meditation: a meta-analysis. Psychological bulletin, 138(6), 1139.
+<small> Sedlmeier, P., Eberth, J., Schwarz, M., Zimmermann, D., Haarig, F., Jaeger, S., & Kunze, S. (2012). The psychological effects of meditation: a meta-analysis. Psychological bulletin, 138(6), 1139.
 
-Van Dam, N. T., Van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., ... & Fox, K. C. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on psychological science, 13(1), 36-61.
+<small> Van Dam, N. T., Van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Olendzki, A., ... & Fox, K. C. (2018). Mind the hype: A critical evaluation and prescriptive agenda for research on mindfulness and meditation. Perspectives on psychological science, 13(1), 36-61.
 
